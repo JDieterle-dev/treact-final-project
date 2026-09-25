@@ -1163,7 +1163,6 @@ FOOTER ↓
 
 */
 
-
 footer {
     padding: 96px 32px;
     background-color: rgb(100, 21, 255);
@@ -1171,6 +1170,7 @@ footer {
     position: relative;
     overflow: hidden;
 }
+
 
 
 /* 
